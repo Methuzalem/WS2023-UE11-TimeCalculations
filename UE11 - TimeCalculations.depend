@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697730309 source:c:\dev\prozd\ue11 - timecalculations\main.c
+	<stdio.h>
+	<stdlib.h>
+
